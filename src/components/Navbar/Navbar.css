@@ -1,0 +1,13 @@
+.navbar{
+    background-color:pink;
+    color: yellow;
+    padding: 20px;
+    display: flex;
+    justify-content: center
+}
+
+.navbar a {
+    margin: 0 10px;
+    text-decoration: none;
+}
+
